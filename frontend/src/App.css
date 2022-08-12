@@ -1,0 +1,18 @@
+.content-container {
+  display: flex;
+  justify-content: center;
+}
+
+.main-activity {
+  width: 65%;
+  height: 150%;
+  background-color: #60a3d9;
+  padding: 12px;
+}
+
+.app-name-container {
+  background-color: #c3e4ff;
+  display: flex;
+  justify-content: center;
+  font-size: 32px;
+}

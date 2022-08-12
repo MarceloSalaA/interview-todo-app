@@ -1,0 +1,27 @@
+.task-modal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #adc8e2;
+
+  padding-top: 8px;
+  max-height: 50px;
+  overflow: hidden;
+}
+
+.modal-options {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.options-button {
+  height: 50px;
+}
+
+.modal-status {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}

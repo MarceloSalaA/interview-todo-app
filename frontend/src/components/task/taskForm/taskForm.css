@@ -1,0 +1,42 @@
+.form-centerer {
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  background-color: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.form-title-container {
+  display: flex;
+  flex-direction: column;
+}
+.form-title-input {
+  padding: 8px;
+  width: 60%;
+}
+
+.form-description-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+
+.form-status-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+}
+
+.form-options {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 12px;
+}

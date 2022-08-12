@@ -1,0 +1,41 @@
+.task-container {
+  display: flex;
+  background-color: #bfd7ed;
+  align-items: center;
+  padding: 10px;
+}
+.task-container:hover {
+  cursor: pointer;
+  background-color: #93afc9;
+}
+
+.title-container {
+  display: flex;
+  justify-content: center;
+  width: 10%;
+}
+.title {
+  font-weight: 700;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.description-container {
+  width: 70%;
+  border-radius: 8px;
+  background-color: white;
+}
+.description {
+  overflow: hidden;
+  max-width: 120ch;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.task-status {
+  display: flex;
+  justify-content: center;
+  width: 20%;
+}
