@@ -1,5 +1,7 @@
 # Run Apps
 
+- Each command on a different terminal
+
 ## Run Frontend
 
 `cd backend && npm install && npm start`
