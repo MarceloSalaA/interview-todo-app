@@ -2,7 +2,7 @@
 
 - Each command on a different terminal
 
-## Run Frontend
+## Run Backend
 
 `cd backend && npm install && npm start`
 
