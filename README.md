@@ -4,8 +4,8 @@
 
 ## Run Backend
 
-`cd backend && npm install && npm start`
+`cd backend && yarn install && yarn start`
 
 ## Run Frontend
 
-`cd frontend && npm install && npm start`
+`cd frontend && yarn install && yarn start`
